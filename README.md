@@ -69,7 +69,7 @@ This repository and pilot material:
 
 ## Public links
 
-- Website: https://sukhrob-ziyovuudinov.vercel.app
-- GitHub website repo: https://github.com/sukhrob-ziyovuddinov/asii-website
+- Website: https://asii.site
+- GitHub website repo: https://github.com/ASII-AI/asii-website
 - GitHub strategy repo: https://github.com/sukhrob-ziyovuddinov/asii-strategy
 - LinkedIn: https://www.linkedin.com/company/asii-intelligence/
